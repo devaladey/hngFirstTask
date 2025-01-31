@@ -62,7 +62,7 @@ Ensure you have the following installed:
 ### Base URL (Deployed API Endpoint)
 
 ```
-https://hngfirsttask-bhz2.onrender.com/
+https://hngfirsttask-welk.onrender.com/
 ```
 
 ### Endpoint:
@@ -90,13 +90,13 @@ No request parameters required.
 #### **Using `curl` in Terminal:**
 
 ```bash
-curl -X GET https://hngfirsttask-bhz2.onrender.com/
+curl -X GET https://hngfirsttask-welk.onrender.com/
 ```
 
 #### **Using JavaScript (Fetch API):**
 
 ```js
-fetch("https://hngfirsttask-bhz2.onrender.com/")
+fetch("https://hngfirsttask-welk.onrender.com/")
   .then((response) => response.json())
   .then((data) => console.log(data))
   .catch((error) => console.error("Error:", error));
@@ -108,7 +108,7 @@ fetch("https://hngfirsttask-bhz2.onrender.com/")
 
 The API is deployed on **Render** and is publicly accessible.
 
-- **Live URL:** [https://hngfirsttask-bhz2.onrender.com/](https://hngfirsttask-bhz2.onrender.com/)
+- **Live URL:** [https://hngfirsttask-welk.onrender.com/](https://hngfirsttask-welk.onrender.com/)
 - **Response Time:** < 500ms
 
 ---
